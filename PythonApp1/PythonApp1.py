@@ -1,1 +1,3 @@
-print("Hello world")
+a="Artjom"
+b="Kabilov"
+print(a+b)
